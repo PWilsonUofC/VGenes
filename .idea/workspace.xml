@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYSIS_IN_BACKGROUND" value="true" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/IgBLASTer.py" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="7727" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="6453" />
+    <bookmark url="file://$PROJECT_DIR$/IgBLASTer.py" line="1391" />
+    <bookmark url="file://$PROJECT_DIR$/IgBLASTer.py" line="1256" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="7777" />
+    <bookmark url="file://$PROJECT_DIR$/IgBLASTer.py" line="801" />
+    <bookmark url="file://$PROJECT_DIR$/IgBLASTer.py" line="1189" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesSeq.py" line="1226" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesSeq.py" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesSeq.py" line="570" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="5494" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="4231" />
+    <bookmark url="file://$PROJECT_DIR$/IgBLASTer.py" line="531" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="529" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="4181" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesSeq.py" line="1132" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="3935" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="2037" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="3210" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="2051" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="1637" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="1818" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="3460" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="704" />
+    <bookmark url="file://$PROJECT_DIR$/VGenesMain.py" line="1170" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2fadfba-2ca8-4861-944d-6afb607464e9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Clonify.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vgenesmain.py" />
+    </list>
+    <ignored path="VGenes.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/VGenes$PyQt_Treeview.coverage" NAME="PyQt-Treeview Coverage Results" MODIFIED="1411482974614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$qt_doc.coverage" NAME="qt_doc Coverage Results" MODIFIED="1411668466827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqtgraph-0.9.8/doc/extensions" />
+    <SUITE FILE_PATH="coverage/VGenes$delayedencoding.coverage" NAME="delayedencoding Coverage Results" MODIFIED="1451590719750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/draganddrop/delayedencoding" />
+    <SUITE FILE_PATH="coverage/VGenes$tree2.coverage" NAME="tree2 Coverage Results" MODIFIED="1407502197996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$ForWith_Dictionary.coverage" NAME="ForWith Dictionary Coverage Results" MODIFIED="1411647262550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Learning Python Programming - Working Files/Excercises/Training" />
+    <SUITE FILE_PATH="coverage/VGenes$VGenesSeq.coverage" NAME="VGenesSeq Coverage Results" MODIFIED="1411675123216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$stylesheeteditor.coverage" NAME="stylesheeteditor Coverage Results" MODIFIED="1451588220453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stylesheet" />
+    <SUITE FILE_PATH="coverage/VGenes$flowlayout.coverage" NAME="flowlayout Coverage Results" MODIFIED="1451590195159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/layouts" />
+    <SUITE FILE_PATH="coverage/VGenes$findfiles.coverage" NAME="findfiles Coverage Results" MODIFIED="1451585595763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/systray" />
+    <SUITE FILE_PATH="coverage/VGenes$elasticnodes.coverage" NAME="elasticnodes Coverage Results" MODIFIED="1451590799795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/graphicsview" />
+    <SUITE FILE_PATH="coverage/VGenes$IterateTreeWidgetEx.coverage" NAME="IterateTreeWidgetEx Coverage Results" MODIFIED="1429645755195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$simpletreemodel.coverage" NAME="simpletreemodel Coverage Results" MODIFIED="1451590907967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/itemviews/simpletreemodel" />
+    <SUITE FILE_PATH="coverage/VGenes$dragdroprobot.coverage" NAME="dragdroprobot Coverage Results" MODIFIED="1451590819353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/graphicsview/dragdroprobot" />
+    <SUITE FILE_PATH="coverage/VGenes$stylesheet.coverage" NAME="stylesheet Coverage Results" MODIFIED="1451588227364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stylesheet" />
+    <SUITE FILE_PATH="coverage/VGenes$Simple_Tree.coverage" NAME="Simple-Tree Coverage Results" MODIFIED="1411606162632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Learning Python Programming - Working Files/Excercises/Training" />
+    <SUITE FILE_PATH="coverage/VGenes$vgenesmain.coverage" NAME="vgenesmain Coverage Results" MODIFIED="1409698600008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$customsortfiltermodel.coverage" NAME="customsortfiltermodel Coverage Results" MODIFIED="1451590940736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/itemviews" />
+    <SUITE FILE_PATH="coverage/VGenes$anchorlayout.coverage" NAME="anchorlayout Coverage Results" MODIFIED="1451590778160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/graphicsview" />
+    <SUITE FILE_PATH="coverage/VGenes$AnotherTree.coverage" NAME="AnotherTree Coverage Results" MODIFIED="1411605985843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Learning Python Programming - Working Files/Excercises/Training" />
+    <SUITE FILE_PATH="coverage/VGenes$CSV_Table.coverage" NAME="CSV-Table Coverage Results" MODIFIED="1430334779360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$spreadsheet.coverage" NAME="spreadsheet Coverage Results" MODIFIED="1451585288152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spreadsheet" />
+    <SUITE FILE_PATH="coverage/VGenes$VGenesReportWizard.coverage" NAME="VGenesReportWizard Coverage Results" MODIFIED="1451936115286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$menumanager.coverage" NAME="menumanager Coverage Results" MODIFIED="1451589817842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/qtdemo" />
+    <SUITE FILE_PATH="coverage/VGenes$groupbox.coverage" NAME="groupbox Coverage Results" MODIFIED="1451580016742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draggabletext" />
+    <SUITE FILE_PATH="coverage/VGenes$ModFinder.coverage" NAME="ModFinder Coverage Results" MODIFIED="1443555977225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$chart.coverage" NAME="chart Coverage Results" MODIFIED="1451583292241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chart" />
+    <SUITE FILE_PATH="coverage/VGenes$TextColor.coverage" NAME="TextColor Coverage Results" MODIFIED="1411675114486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$spinboxdelegate.coverage" NAME="spinboxdelegate Coverage Results" MODIFIED="1451589978531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/itemviews" />
+    <SUITE FILE_PATH="coverage/VGenes$PyQt_Treeview__1_.coverage" NAME="PyQt-Treeview (1) Coverage Results" MODIFIED="1411480355873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Learning Python Programming - Working Files/Excercises/Training" />
+    <SUITE FILE_PATH="coverage/VGenes$ListsFinal.coverage" NAME="ListsFinal Coverage Results" MODIFIED="1411573368727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Learning Python Programming - Working Files/Excercises/Training" />
+    <SUITE FILE_PATH="coverage/VGenes$lineedits.coverage" NAME="lineedits Coverage Results" MODIFIED="1451587365303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/systray" />
+    <SUITE FILE_PATH="coverage/VGenes$PyQt_WebBrowser.coverage" NAME="PyQt-WebBrowser Coverage Results" MODIFIED="1406826407962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$compile_on_the_fly.coverage" NAME="compile-on-the-fly Coverage Results" MODIFIED="1451590367243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/pyuic" />
+    <SUITE FILE_PATH="coverage/VGenes$separations.coverage" NAME="separations Coverage Results" MODIFIED="1451590236262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/mainwindows" />
+    <SUITE FILE_PATH="coverage/VGenes$systray.coverage" NAME="systray Coverage Results" MODIFIED="1451584414202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/systray" />
+    <SUITE FILE_PATH="coverage/VGenes$screenshot.coverage" NAME="screenshot Coverage Results" MODIFIED="1451583989646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chart" />
+    <SUITE FILE_PATH="coverage/VGenes$ProgressBar.coverage" NAME="ProgressBar Coverage Results" MODIFIED="1429645789896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$draggabletext.coverage" NAME="draggabletext Coverage Results" MODIFIED="1451579767820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draggabletext" />
+    <SUITE FILE_PATH="coverage/VGenes$mdi.coverage" NAME="mdi Coverage Results" MODIFIED="1451589430994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mdi" />
+    <SUITE FILE_PATH="coverage/VGenes$IgBLASTer.coverage" NAME="IgBLASTer Coverage Results" MODIFIED="1408324507377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$configdialog.coverage" NAME="configdialog Coverage Results" MODIFIED="1451590599756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/dialogs/configdialog" />
+    <SUITE FILE_PATH="coverage/VGenes$colorcode.coverage" NAME="colorcode Coverage Results" MODIFIED="1451583647996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chart" />
+    <SUITE FILE_PATH="coverage/VGenes$TreeWidget_get_checked_list.coverage" NAME="TreeWidget get checked list Coverage Results" MODIFIED="1411907738078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$fridgemagnets.coverage" NAME="fridgemagnets Coverage Results" MODIFIED="1451578897957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FridgeMagnets" />
+    <SUITE FILE_PATH="coverage/VGenes$localfortuneclient.coverage" NAME="localfortuneclient Coverage Results" MODIFIED="1451590458941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/ipc" />
+    <SUITE FILE_PATH="coverage/VGenes$TreeView.coverage" NAME="TreeView Coverage Results" MODIFIED="1407500805033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$trivialwizard.coverage" NAME="trivialwizard Coverage Results" MODIFIED="1451586296364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/systray" />
+    <SUITE FILE_PATH="coverage/VGenes$classwizard.coverage" NAME="classwizard Coverage Results" MODIFIED="1451590614967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/dialogs/classwizard" />
+    <SUITE FILE_PATH="coverage/VGenes$puzzle.coverage" NAME="puzzle Coverage Results" MODIFIED="1451579420152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/puzzle" />
+    <SUITE FILE_PATH="coverage/VGenes$Database_example.coverage" NAME="Database-example Coverage Results" MODIFIED="1416141955753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$dropsite.coverage" NAME="dropsite Coverage Results" MODIFIED="1451589861020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/draganddrop" />
+    <SUITE FILE_PATH="coverage/VGenes$TreeWidgetEx.coverage" NAME="TreeWidgetEx Coverage Results" MODIFIED="1411903345160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$editabletreemodel.coverage" NAME="editabletreemodel Coverage Results" MODIFIED="1451590135098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/itemviews/editabletreemodel" />
+    <SUITE FILE_PATH="coverage/VGenes$tabdialog.coverage" NAME="tabdialog Coverage Results" MODIFIED="1451590567597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/dialogs" />
+    <SUITE FILE_PATH="coverage/VGenes$simplewidgetmapper.coverage" NAME="simplewidgetmapper Coverage Results" MODIFIED="1451590166234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/itemviews" />
+    <SUITE FILE_PATH="coverage/VGenes$IteratorsDictionary.coverage" NAME="IteratorsDictionary Coverage Results" MODIFIED="1412888887033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Learning Python Programming - Working Files/Excercises/Training" />
+    <SUITE FILE_PATH="coverage/VGenes$CmnDialog.coverage" NAME="CmnDialog Coverage Results" MODIFIED="1432052748216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$extension.coverage" NAME="extension Coverage Results" MODIFIED="1451590661996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/dialogs" />
+    <SUITE FILE_PATH="coverage/VGenes$VGenesMain.coverage" NAME="VGenesMain Coverage Results" MODIFIED="1460583083103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VGenes$dockwidgets.coverage" NAME="dockwidgets Coverage Results" MODIFIED="1451589107481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dockwidgets" />
+    <SUITE FILE_PATH="coverage/VGenes$PyQt_simpleTree.coverage" NAME="PyQt-simpleTree Coverage Results" MODIFIED="1411480348238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Learning Python Programming - Working Files/Excercises/Training" />
+    <SUITE FILE_PATH="coverage/VGenes$combowidgetmapper.coverage" NAME="combowidgetmapper Coverage Results" MODIFIED="1451590880404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/itemviews" />
+    <SUITE FILE_PATH="coverage/VGenes$application.coverage" NAME="application Coverage Results" MODIFIED="1451590313827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/mainwindows/application" />
+    <SUITE FILE_PATH="coverage/VGenes$coloreditorfactory.coverage" NAME="coloreditorfactory Coverage Results" MODIFIED="1451589998151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/PyQt-gpl-5.3.1/examples/itemviews" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="VGenes" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="VGenesMain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VGenesMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="5453" column="16" selection-start-line="5453" selection-start-column="16" selection-end-line="5453" selection-end-column="16" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+                <marker date="1460408539000" expanded="true" signature="1541:1609" placeholder="select * fro... vgenesdb" />
+                <marker date="1460408539000" expanded="true" signature="31038:31112" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="32036:32151" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="33869:34024" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="35150:35345" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="202245:202313" placeholder="select * fro... vgenesdb" />
+                <marker date="1460408539000" expanded="true" signature="229574:229655" placeholder="UPDATE vgene... " />
+                <marker date="1460408539000" expanded="true" signature="232357:232430" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="232509:232625" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="232704:232863" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="232907:233109" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="235700:235773" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="235860:235976" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="236063:236222" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="236274:236476" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="236521:236594" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1460408539000" expanded="true" signature="239642:239700" placeholder="UPDATE vgene... " />
+                <marker date="1460408539000" expanded="true" signature="310236:310275" placeholder="select * fro... vgenesdb" />
+                <marker date="1460408539000" expanded="true" signature="310352:310407" placeholder="select * fro... vgenesdb" />
+                <marker date="1460408539000" expanded="true" signature="310484:310555" placeholder="select * fro... vgenesdb" />
+                <marker date="1460408539000" expanded="true" signature="310597:310684" placeholder="select * fro... vgenesdb" />
+                <marker date="1460408539000" expanded="true" signature="343381:343431" placeholder="update vgene... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VGenesSQL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VGenesSQL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8056">
+              <caret line="425" column="111" selection-start-line="425" selection-start-column="110" selection-end-line="425" selection-end-column="111" />
+              <folding>
+                <marker date="1444084053000" expanded="true" signature="381:410" placeholder="drop table i... " />
+                <marker date="1444084053000" expanded="true" signature="434:2094" placeholder="create table... vgenesDB" />
+                <marker date="1444084053000" expanded="true" signature="2640:2665" placeholder="INSERT INTO DB2.vgenesDB... " />
+                <marker date="1444084053000" expanded="true" signature="9797:9828" placeholder="drop table i... " />
+                <marker date="1444084053000" expanded="true" signature="9958:10189" placeholder="create table... AnalysisDB" />
+                <marker date="1444084053000" expanded="true" signature="10250:10443" placeholder="INSERT INTO AnalysisDB... " />
+                <marker date="1444084053000" expanded="true" signature="10920:10944" placeholder="SELECT * FRO... AnalysisDB" />
+                <marker date="1444084053000" expanded="true" signature="17387:17418" placeholder="drop table i... " />
+                <marker date="1444084053000" expanded="true" signature="17548:17929" placeholder="create table... GermLineDB" />
+                <marker date="1444084053000" expanded="true" signature="17990:18302" placeholder="INSERT INTO GermLineDB... " />
+                <marker date="1444084053000" expanded="true" signature="24257:24285" placeholder="SELECT max(I... vgenesDB" />
+                <marker date="1444084053000" expanded="true" signature="25150:25225" placeholder="SELECT SeqNa... vgenesDB" />
+                <marker date="1444084053000" expanded="true" signature="28181:29577" placeholder="INSERT INTO vgenesDB... " />
+                <marker date="1444084053000" expanded="true" signature="30350:30372" placeholder="SELECT * FRO... vgenesDB" />
+                <marker date="1444084053000" expanded="true" signature="31146:31170" placeholder="ATTACH pathn... VGDB2" />
+                <marker date="1444084053000" expanded="true" signature="31197:31216" placeholder="SELECT * FRO... VGDB2" />
+                <marker date="1444084053000" expanded="true" signature="31345:31405" placeholder="INSERT INTO DBpathname.vgenesDB... " />
+                <marker date="1444084053000" expanded="true" signature="31377:31405" placeholder="SELECT * FRO... vgenesDB" />
+                <marker date="1444084053000" expanded="true" signature="31752:31774" placeholder="SELECT * FRO... vgenesDB" />
+                <marker date="1444084053000" expanded="true" signature="32343:32370" placeholder="select avg(t... temps" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posixpath.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/posixpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VGenesSeq.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VGenesSeq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10925">
+              <caret line="576" column="4" selection-start-line="576" selection-start-column="4" selection-end-line="576" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IgBLASTer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IgBLASTer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="1235" column="40" selection-start-line="1235" selection-start-column="40" selection-end-line="1235" selection-end-column="40" />
+              <folding>
+                <marker date="1460583327000" expanded="true" signature="23916:24064" placeholder="SELECT SeqNa... GermLineDB" />
+                <marker date="1460583327000" expanded="true" signature="24296:24444" placeholder="SELECT SeqNa... GermLineDB" />
+                <marker date="1460583327000" expanded="true" signature="24491:24639" placeholder="SELECT SeqNa... GermLineDB" />
+                <marker date="1460583327000" expanded="true" signature="24735:24882" placeholder="SELECT SeqNa... GermLineDB" />
+                <marker date="1460583327000" expanded="true" signature="25114:25261" placeholder="SELECT SeqNa... GermLineDB" />
+                <marker date="1460583327000" expanded="true" signature="25308:25455" placeholder="SELECT SeqNa... GermLineDB" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="elasticnodes.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/graphicsview/elasticnodes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VGenesDialogues.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VGenesDialogues.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4085">
+              <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Clonify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clonify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1881">
+              <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+              <folding>
+                <element signature="e#361#370#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VGenesReportWizard.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VGenesReportWizard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+              <folding>
+                <element signature="e#24#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui_ReportDesignPage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui_ReportDesignPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="67" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/puzzle/puzzle.py" />
+        <option value="$PROJECT_DIR$/puzzle/puzzle.qrc" />
+        <option value="$PROJECT_DIR$/puzzle/puzzle_rc.py" />
+        <option value="$PROJECT_DIR$/draggabletext/draggabletext.py" />
+        <option value="$PROJECT_DIR$/draggabletext/draggabletext.qrc" />
+        <option value="$PROJECT_DIR$/draggabletext/draggabletext_rc.py" />
+        <option value="$PROJECT_DIR$/draggabletext/words.txt" />
+        <option value="$PROJECT_DIR$/draggabletext/groupbox.py" />
+        <option value="$PROJECT_DIR$/chart/chart.py" />
+        <option value="$PROJECT_DIR$/chart/chart.qrc" />
+        <option value="$PROJECT_DIR$/chart/chart_rc.py" />
+        <option value="$PROJECT_DIR$/chart/mydata.cht" />
+        <option value="$PROJECT_DIR$/chart/qtdata.cht" />
+        <option value="$PROJECT_DIR$/chart/colorcode.py" />
+        <option value="$PROJECT_DIR$/chart/PatData.cht" />
+        <option value="$PROJECT_DIR$/chart/screenshot.py" />
+        <option value="$PROJECT_DIR$/systray/systray.py" />
+        <option value="$PROJECT_DIR$/systray/systray.qrc" />
+        <option value="$PROJECT_DIR$/systray/systray_rc.py" />
+        <option value="$PROJECT_DIR$/spreadsheet/printview.py" />
+        <option value="$PROJECT_DIR$/spreadsheet/spreadsheet.qrc" />
+        <option value="$PROJECT_DIR$/spreadsheet/spreadsheet_rc.py" />
+        <option value="$PROJECT_DIR$/spreadsheet/spreadsheetdelegate.py" />
+        <option value="$PROJECT_DIR$/spreadsheet/spreadsheetitem.py" />
+        <option value="$PROJECT_DIR$/spreadsheet/util.py" />
+        <option value="$PROJECT_DIR$/spreadsheet/spreadsheet.py" />
+        <option value="$PROJECT_DIR$/systray/findfiles.py" />
+        <option value="$PROJECT_DIR$/systray/trivialwizard.py" />
+        <option value="$PROJECT_DIR$/systray/lineedits.py" />
+        <option value="$PROJECT_DIR$/stylesheet/stylesheet.py" />
+        <option value="$PROJECT_DIR$/stylesheet/stylesheet_rc.py" />
+        <option value="$PROJECT_DIR$/stylesheet/stylesheeteditor.py" />
+        <option value="$PROJECT_DIR$/stylesheet/ui_mainwindow.py" />
+        <option value="$PROJECT_DIR$/stylesheet/ui_stylesheeteditor.py" />
+        <option value="$PROJECT_DIR$/stylesheet/stylesheet.qrc" />
+        <option value="$PROJECT_DIR$/stylesheet/cofee.qss" />
+        <option value="$PROJECT_DIR$/stylesheet/default.qss" />
+        <option value="$PROJECT_DIR$/stylesheet/pagefold.qss" />
+        <option value="$PROJECT_DIR$/configdialog/configdialog.py" />
+        <option value="$PROJECT_DIR$/configdialog/configdialog_rc.py" />
+        <option value="$PROJECT_DIR$/configdialog/configdialog.qrc" />
+        <option value="$PROJECT_DIR$/dockwidgets/dockwidgets.py" />
+        <option value="$PROJECT_DIR$/dockwidgets/dockwidgets.qrc" />
+        <option value="$PROJECT_DIR$/dockwidgets/dockwidgets_rc.py" />
+        <option value="$PROJECT_DIR$/mdi/mdi.py" />
+        <option value="$PROJECT_DIR$/mdi/mdi_rc.py" />
+        <option value="$PROJECT_DIR$/mdi/mdi.qrc" />
+        <option value="$PROJECT_DIR$/VGenesReportWizard.py" />
+        <option value="$PROJECT_DIR$/Clonify.py" />
+        <option value="$PROJECT_DIR$/VGenesMain.py" />
+        <option value="$PROJECT_DIR$/IgBLASTer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="2531" />
+    <option name="height" value="1502" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType Scope="true" />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VGenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VGenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VGenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/get-pip.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wilsonp/Dropbox/VGenes/VGenesSQL.py&#10;popen&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.VGenesMain">
+    <configuration default="false" name="combowidgetmapper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Applications/PyQt-gpl-5.3.1/examples/itemviews" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Applications/PyQt-gpl-5.3.1/examples/itemviews/combowidgetmapper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="simpletreemodel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Applications/PyQt-gpl-5.3.1/examples/itemviews/simpletreemodel" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Applications/PyQt-gpl-5.3.1/examples/itemviews/simpletreemodel/simpletreemodel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="customsortfiltermodel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Applications/PyQt-gpl-5.3.1/examples/itemviews" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Applications/PyQt-gpl-5.3.1/examples/itemviews/customsortfiltermodel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="VGenesReportWizard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VGenesReportWizard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="VGenesMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VGenesMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="VGenes" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="VGenes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.combowidgetmapper" />
+      <item index="1" class="java.lang.String" itemvalue="Python.simpletreemodel" />
+      <item index="2" class="java.lang.String" itemvalue="Python.customsortfiltermodel" />
+      <item index="3" class="java.lang.String" itemvalue="Python.VGenesReportWizard" />
+      <item index="4" class="java.lang.String" itemvalue="Python.VGenesMain" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.VGenesMain" />
+        <item index="1" class="java.lang.String" itemvalue="Python.VGenesReportWizard" />
+        <item index="2" class="java.lang.String" itemvalue="Python.customsortfiltermodel" />
+        <item index="3" class="java.lang.String" itemvalue="Python.simpletreemodel" />
+        <item index="4" class="java.lang.String" itemvalue="Python.combowidgetmapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2fadfba-2ca8-4861-944d-6afb607464e9" name="Default" comment="" />
+      <created>1406721774035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1406721774035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="23" width="2531" height="1502" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2109838" sideWeight="0.5137868" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13886951" sideWeight="0.26015624" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972583" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22672352" sideWeight="0.39075464" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2109838" sideWeight="0.48621324" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13886951" sideWeight="0.7398437" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14934808" sideWeight="0.35757056" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22672352" sideWeight="0.60924536" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39957264" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.064398095" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesCloneCaller.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="1739" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesSQL.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="1758" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>506</line>
+          <option name="timeStamp" value="1760" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/ModFinder.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1761" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>1507</line>
+          <option name="timeStamp" value="1762" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VgenesTextEdit.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="1832" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>5813</line>
+          <option name="timeStamp" value="1837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>1655</line>
+          <option name="timeStamp" value="1840" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>1447</line>
+          <option name="timeStamp" value="1841" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>1546</line>
+          <option name="timeStamp" value="1843" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>5310</line>
+          <option name="timeStamp" value="1885" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>5358</line>
+          <option name="timeStamp" value="1886" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>5347</line>
+          <option name="timeStamp" value="1888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>4776</line>
+          <option name="timeStamp" value="1895" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>4939</line>
+          <option name="timeStamp" value="1898" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>1006</line>
+          <option name="timeStamp" value="1902" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesSQL.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="1904" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesSQL.py</url>
+          <line>701</line>
+          <option name="timeStamp" value="1912" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/VGenesMain.py</url>
+          <line>5449</line>
+          <option name="timeStamp" value="1918" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/IgBLASTer.py</url>
+          <line>1066</line>
+          <option name="timeStamp" value="1921" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="1922" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="namehere" />
+        <watch expression="namehere" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/systray/lineedits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="182" column="51" selection-start-line="182" selection-start-column="51" selection-end-line="182" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/ui_mainwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/ui_stylesheeteditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/stylesheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configdialog/configdialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configdialog/configdialog_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1156" column="16" selection-start-line="1156" selection-start-column="16" selection-end-line="1156" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configdialog/configdialog.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/stylesheet_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1223" column="16" selection-start-line="1223" selection-start-column="16" selection-end-line="1223" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/stylesheeteditor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/stylesheet.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/cofee.qss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/default.qss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/pagefold.qss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="298" column="1" selection-start-line="298" selection-start-column="1" selection-end-line="298" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockwidgets/dockwidgets_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="461" column="16" selection-start-line="461" selection-start-column="16" selection-end-line="461" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockwidgets/dockwidgets.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockwidgets/dockwidgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="254" column="25" selection-start-line="254" selection-start-column="25" selection-end-line="254" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mdi/mdi.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mdi/mdi_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="603" column="16" selection-start-line="603" selection-start-column="16" selection-end-line="603" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/qtdemo/menumanager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/itemviews/editabletreemodel/editabletreemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/mainwindows/separations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/layouts/flowlayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/itemviews/simplewidgetmapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/itemviews/spinboxdelegate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/draganddrop/dropsite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mdi/mdi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/pyuic/compile-on-the-fly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/mainwindows/application/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/dialogs/configdialog/configdialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="70" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/dialogs/extension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/dialogs/classwizard/classwizard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/dialogs/tabdialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/ipc/localfortuneclient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/itemviews/coloreditorfactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="83" column="38" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/draganddrop/delayedencoding/delayedencoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="33" column="72" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/graphicsview/anchorlayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/graphicsview/dragdroprobot/dragdroprobot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/itemviews/combowidgetmapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/itemviews/simpletreemodel/simpletreemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/itemviews/customsortfiltermodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/PyQt-gpl-5.3.1/examples/graphicsview/elasticnodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VGenesReportWizard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui_ReportDesignPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VGenesDialogues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4085">
+          <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get-pip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="147" column="59" selection-start-line="147" selection-start-column="59" selection-end-line="147" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clonify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+          <folding>
+            <element signature="e#361#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/posixpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VGenesSQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8056">
+          <caret line="425" column="111" selection-start-line="425" selection-start-column="110" selection-end-line="425" selection-end-column="111" />
+          <folding>
+            <marker date="1444084053000" expanded="true" signature="381:410" placeholder="drop table i... " />
+            <marker date="1444084053000" expanded="true" signature="434:2094" placeholder="create table... vgenesDB" />
+            <marker date="1444084053000" expanded="true" signature="2640:2665" placeholder="INSERT INTO DB2.vgenesDB... " />
+            <marker date="1444084053000" expanded="true" signature="9797:9828" placeholder="drop table i... " />
+            <marker date="1444084053000" expanded="true" signature="9958:10189" placeholder="create table... AnalysisDB" />
+            <marker date="1444084053000" expanded="true" signature="10250:10443" placeholder="INSERT INTO AnalysisDB... " />
+            <marker date="1444084053000" expanded="true" signature="10920:10944" placeholder="SELECT * FRO... AnalysisDB" />
+            <marker date="1444084053000" expanded="true" signature="17387:17418" placeholder="drop table i... " />
+            <marker date="1444084053000" expanded="true" signature="17548:17929" placeholder="create table... GermLineDB" />
+            <marker date="1444084053000" expanded="true" signature="17990:18302" placeholder="INSERT INTO GermLineDB... " />
+            <marker date="1444084053000" expanded="true" signature="24257:24285" placeholder="SELECT max(I... vgenesDB" />
+            <marker date="1444084053000" expanded="true" signature="25150:25225" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1444084053000" expanded="true" signature="28181:29577" placeholder="INSERT INTO vgenesDB... " />
+            <marker date="1444084053000" expanded="true" signature="30350:30372" placeholder="SELECT * FRO... vgenesDB" />
+            <marker date="1444084053000" expanded="true" signature="31146:31170" placeholder="ATTACH pathn... VGDB2" />
+            <marker date="1444084053000" expanded="true" signature="31197:31216" placeholder="SELECT * FRO... VGDB2" />
+            <marker date="1444084053000" expanded="true" signature="31345:31405" placeholder="INSERT INTO DBpathname.vgenesDB... " />
+            <marker date="1444084053000" expanded="true" signature="31377:31405" placeholder="SELECT * FRO... vgenesDB" />
+            <marker date="1444084053000" expanded="true" signature="31752:31774" placeholder="SELECT * FRO... vgenesDB" />
+            <marker date="1444084053000" expanded="true" signature="32343:32370" placeholder="select avg(t... temps" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VGenesSeq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10925">
+          <caret line="576" column="4" selection-start-line="576" selection-start-column="4" selection-end-line="576" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VGenesMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="5453" column="16" selection-start-line="5453" selection-start-column="16" selection-end-line="5453" selection-end-column="16" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+            <marker date="1460408539000" expanded="true" signature="1541:1609" placeholder="select * fro... vgenesdb" />
+            <marker date="1460408539000" expanded="true" signature="31038:31112" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="32036:32151" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="33869:34024" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="35150:35345" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="202245:202313" placeholder="select * fro... vgenesdb" />
+            <marker date="1460408539000" expanded="true" signature="229574:229655" placeholder="UPDATE vgene... " />
+            <marker date="1460408539000" expanded="true" signature="232357:232430" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="232509:232625" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="232704:232863" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="232907:233109" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="235700:235773" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="235860:235976" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="236063:236222" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="236274:236476" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="236521:236594" placeholder="SELECT SeqNa... vgenesDB" />
+            <marker date="1460408539000" expanded="true" signature="239642:239700" placeholder="UPDATE vgene... " />
+            <marker date="1460408539000" expanded="true" signature="310236:310275" placeholder="select * fro... vgenesdb" />
+            <marker date="1460408539000" expanded="true" signature="310352:310407" placeholder="select * fro... vgenesdb" />
+            <marker date="1460408539000" expanded="true" signature="310484:310555" placeholder="select * fro... vgenesdb" />
+            <marker date="1460408539000" expanded="true" signature="310597:310684" placeholder="select * fro... vgenesdb" />
+            <marker date="1460408539000" expanded="true" signature="343381:343431" placeholder="update vgene... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IgBLASTer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="1235" column="40" selection-start-line="1235" selection-start-column="40" selection-end-line="1235" selection-end-column="40" />
+          <folding>
+            <marker date="1460583327000" expanded="true" signature="23916:24064" placeholder="SELECT SeqNa... GermLineDB" />
+            <marker date="1460583327000" expanded="true" signature="24296:24444" placeholder="SELECT SeqNa... GermLineDB" />
+            <marker date="1460583327000" expanded="true" signature="24491:24639" placeholder="SELECT SeqNa... GermLineDB" />
+            <marker date="1460583327000" expanded="true" signature="24735:24882" placeholder="SELECT SeqNa... GermLineDB" />
+            <marker date="1460583327000" expanded="true" signature="25114:25261" placeholder="SELECT SeqNa... GermLineDB" />
+            <marker date="1460583327000" expanded="true" signature="25308:25455" placeholder="SELECT SeqNa... GermLineDB" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

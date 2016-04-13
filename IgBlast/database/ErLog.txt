@@ -1,0 +1,8 @@
+VGenes input beginning at: Wed Apr 13 16:32:14 2016
+CR8020-LC: No J gene found
+CR8020-LCwas problematic (line 766)
+CR8020-HC: No J gene found
+CR8020-HCwas problematic (line 766)
+CR8020-HCwas problematic (line 766)
+
+VGenes input ended at: Wed Apr 13 16:32:16 2016
