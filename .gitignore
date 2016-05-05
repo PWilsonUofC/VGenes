@@ -1,0 +1,5 @@
+# Documentation: https://git-scm.com/docs/gitignore
+
+BackUP.vdb
+IgBlast/1.3.0
+IgBlast/ncbi*
